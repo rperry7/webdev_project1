@@ -1,2 +1,2 @@
 # webdev_project1
-project1
+Welcome to my project!
